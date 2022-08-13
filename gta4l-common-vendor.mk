@@ -319,6 +319,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta4l-common/proprietary/vendor/firmware/scuba_ipa_fws.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/scuba_ipa_fws.b04 \
     vendor/samsung/gta4l-common/proprietary/vendor/firmware/scuba_ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/scuba_ipa_fws.elf \
     vendor/samsung/gta4l-common/proprietary/vendor/firmware/scuba_ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/scuba_ipa_fws.mdt \
+    vendor/samsung/gta4l-common/proprietary/vendor/lib64/libspl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspl.so \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/camera/com.qti.sensormodule.lce_s5k3p9.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.lce_s5k3p9.bin \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/camera/com.qti.sensormodule.lce_s5k4h7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.lce_s5k4h7.bin \
     vendor/samsung/gta4l-common/proprietary/vendor/lib64/camera/com.qti.sensormodule.lce_s5k5e9yx04.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.lce_s5k5e9yx04.bin \
